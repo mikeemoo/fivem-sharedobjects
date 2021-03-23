@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["es2016", "dom"],
+    "module": "commonjs",
+    "declaration": false,
+    "types": ["@citizenfx/client", "@citizenfx/server", "@types/node"]
+  }
+}

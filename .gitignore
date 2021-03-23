@@ -1,0 +1,8 @@
+.fxdk
+node_modules
+system-resources
+yarn.lock
+system-resources.fxmeta
+devtools
+fxproject.json
+.yarn.installed
